@@ -1,2 +1,2 @@
 # Previsao-de-vendas
-Desafio data analitycs frexco
+Desafio data analitycs
